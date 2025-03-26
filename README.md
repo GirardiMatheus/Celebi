@@ -38,19 +38,19 @@ O Celebi é uma solução mágica para backup e restauração de bancos PostgreS
 - Envio automático via SCP/SSH  
 - Logs detalhados de todas as operações  
 
-## ⚙️ Pré-requisitos
+##  Pré-requisitos
 
 - PostgreSQL 10+
 - Ferramentas básicas: `gzip`, `tar`, `scp`
 - Permissões de leitura/escrita no diretório de backups
 - Chave SSH configurada (para transferência remota)
 
-## 🚀 Instalação Rápida
+##  Instalação Rápida
 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/pg_time_travel.git && cd pg_time_travel
+git clone https://github.com/GirardiMatheus/Celebi.git && cd pg_time_travel
 ```
 2. Configure o ambiente:
 
